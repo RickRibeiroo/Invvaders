@@ -14,15 +14,13 @@ Requisitos
 Instalação
 
     Certifique-se de ter o Python instalado em seu sistema.
-
     Instale o Pygame executando o comando no terminal de comando:
     pip install pygame
     
 
 Como Jogar
 
-    Execute o arquivo principal main.py para iniciar o jogo:
-    python main.py
+    Abra a pasta que você baixou desse diretório em uma IDE configurada para Python e execute o arquivo principal 'main.py' para iniciar o jogo:
 
     Na tela de menu, você terá as opções:
         COMECAR: Começa o jogo.
