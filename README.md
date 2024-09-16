@@ -11,7 +11,7 @@ Requisitos
     
     
 
-Instalação
+Instalação (opcional)
 
     Certifique-se de ter o Python instalado em seu sistema.
 
@@ -20,9 +20,16 @@ Instalação
     
 
 Como Jogar
-
-    Execute o arquivo principal main.py para iniciar o jogo:
-    python main.py
+    
+    Execute o arquivo principal 'Invaders_by_Rick_Ribeiro' para começar o jogo.
+    Um erro relacionado ao antivirus do windows já esperado já que foi utilizado a biblioteca "pyisntaller"
+    para criar o executável.
+    -> desative o antivirus.
+    Caso não consiga executar, o mesmo arquivo está disponível em:
+    (https://drive.google.com/drive/folders/1dJMtzSljKNmIvQNz2A1BAc9AAtbAxhbK?usp=sharing)
+    --> Coloque o .exe disponível acima na mesma pasta que você baixou esse repositório e execute.
+    
+    Um erro poderá acontecer ao fechar esse arquivo, o qual já é esperado.
 
     Na tela de menu, você terá as opções:
         COMECAR: Começa o jogo.
