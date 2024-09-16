@@ -22,6 +22,7 @@ Como Jogar
 
     Abra a pasta que você baixou desse diretório e coloque "Invaders_by_Rick_Ribeiro.exe"
     (https://drive.google.com/drive/folders/1dJMtzSljKNmIvQNz2A1BAc9AAtbAxhbK?usp=sharing) dentro dela, execute.
+    O executável de arquivo tem mais de 25mb, no qual o gihub não permite, por isso decidi fazer upload em um arquivo
 
     Na tela de menu, você terá as opções:
         COMECAR: Começa o jogo.
