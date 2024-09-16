@@ -20,8 +20,8 @@ Instalação
 
 Como Jogar
 
-    Abra a pasta que você baixou desse diretório em uma IDE configurada para Python e
-    execute o arquivo principal 'main.py' para iniciar o jogo:
+    Abra a pasta que você baixou desse diretório e coloque "Invaders_by_Rick_Ribeiro.exe"
+    (https://drive.google.com/drive/folders/1dJMtzSljKNmIvQNz2A1BAc9AAtbAxhbK?usp=sharing) dentro dela, execute.
 
     Na tela de menu, você terá as opções:
         COMECAR: Começa o jogo.
